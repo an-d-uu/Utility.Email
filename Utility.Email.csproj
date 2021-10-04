@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net45;net451;net452;net46;net461;net462;net47;net471;net472;net48;net5.0;</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Andy Woodward</Authors>
+    <Company>Woodward Coding Solutions</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright © Woodward Coding 2021</Copyright>
+    <RepositoryUrl>https://github.com/an-d-uu/Utility.Email</RepositoryUrl>
+    <PackageReleaseNotes>Release Notes.md</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
